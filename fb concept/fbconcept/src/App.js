@@ -1,17 +1,3 @@
-// import React, { useState } from "react";
-// import Signup from "./components/Signup/Signup";
-// import Login from "./components/Login/Login";
-// import ImageGallery from "./components/ImageGallery";
-// import UploadImage from "./components/UploadImage";
-// import { BrowserRouter, Routes, Route } from "react-router-dom";
-// import cors from 'cors' ;
-// import ImageUploadForm from "./components/ImageUploadForm";
-
-// const App = () => {
-  
-
-
-
 import React, { useState } from "react";
 import Signup from "./components/Signup/Signup";
 import Login from "./components/Login/Login";
